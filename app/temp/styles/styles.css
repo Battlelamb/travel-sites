@@ -1,0 +1,13 @@
+body {
+  width: -webkit-max-content;
+  width: -moz-max-content;
+  width: max-content;
+  background-color: #2f5572;
+  padding: 25px;
+  -webkit-columns: 300px 2;
+     -moz-columns: 300px 2;
+          columns: 300px 2;
+}
+  body .box {
+    width: 10px;
+  }
